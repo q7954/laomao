@@ -1,9 +1,4 @@
-# TV猫盒
-## _在TV盒子里抓住了一直猫咪~o( =∩ω∩= )m_
 
-[![N|Solid](https://raw.githubusercontent.com/kensonmiao/CatVodTVOSC/main/app/src/main/res/drawable/app_banner.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## 功能
 
